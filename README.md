@@ -6,6 +6,9 @@ There are several places where you can find large datasets of MIDI formatted jaz
 
 The JAZZOMAT dataset: It is a dataset of jazz performances, which includes MIDI files and audio recordings. It is available for research purposes.
 
+Kaggle Jazz dataset:
+https://www.kaggle.com/datasets/saikayala/jazz-ml-ready-midi
+
 ### Yet to try:
 
 MuseData: This website provides a large collection of MIDI files for various genres of music, including jazz. You can search for specific songs or artists, or browse through the different categories.
