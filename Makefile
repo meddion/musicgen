@@ -4,3 +4,5 @@ start_output:
 sample:
 	playmidi ./jazzomat/ArtPepper_Anthropology_FINAL.mid
 
+deps-macos:
+	brew install fluidsynth 
